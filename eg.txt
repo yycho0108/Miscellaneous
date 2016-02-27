@@ -1,0 +1,6 @@
+  21   60  415 quick2.py
+  17   52  386 quick3.py
+  15   36  346 quick4.py
+  12   37  403 quick5.py
+   7   18  193 quick6.py
+  72  203 1743 total
